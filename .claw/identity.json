@@ -1,0 +1,10 @@
+{
+  "name": "Financial Health Check Analyzer",
+  "version": "0.1.0",
+  "author": "Bella (design) / Harry (impl)",
+  "skill_slug": "financial-health-check-analyzer",
+  "type": "pure-description",
+  "description": "Evaluates personal financial health with a 0-100 score, 5 component analyses, phased roadmap, and quarterly monitoring framework.",
+  "created": "2026-04-18",
+  "tags": ["finance", "health-check", "score", "roadmap"]
+}
